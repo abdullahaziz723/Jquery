@@ -19,4 +19,19 @@ $(document).ready(function () {
 //It is designed to make things like HTML document traversal and manipulation, event handling, and animation
 //easier with an easy-to-use API that works across a multitude of browsers.
 
+
+
+///events in jquery are actions that occur in the browser, such as clicks, form submissions, or mouse movements.
+//jQuery provides methods to handle these events, allowing developers to execute code in response to user
+//interactions. Common event methods include .click(), .submit(), and .hover().
+//jQuery is a JavaScript library that simplifies HTML document manipulation, event handling, and animation.
+//It provides an easy-to-use API that works across different browsers, making it easier to write
+//cross-browser compatible code. jQuery is widely used for its simplicity and efficiency in handling DOM manipulation and events.
+
+// Mouse events = click ,dbcilick, mouseover, mouseout, mouseenter, mouseleave
+// KeyboardEvent = keydown, keyup, keypress
+// Form events = submit, change, focus, blur
+// document/window EventSource = load, resize, scroll, unload
+
+
 console.log($);
